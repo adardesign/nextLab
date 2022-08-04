@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <header>Header</header>
       <main className={styles.main}>
-        <div>TEST</div>
+        <div>Dynamic Page</div>
       </main>
 
       <footer className={styles.footer}>
