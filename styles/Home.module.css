@@ -114,3 +114,10 @@
     flex-direction: column;
   }
 }
+
+
+.addFruit{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
